@@ -1,4 +1,5 @@
 # Kashi Lyrics MiniPlayer for Spotify
+![](kashi.png)
 A very simple Userstyle & script to run the Spotify lyrics view in a small, resizeable window.
 
 ## Prerequisites:
